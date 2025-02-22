@@ -2,7 +2,7 @@ mod vectors;
 mod math;
 
 fn main() {
-    let mut numbers = vec![12, 2, 13, 4, 35, 18];
+    let mut numbers = vec![12, 2, 13, 4, 35, 18];    
 
     // Using functions from the nested modules
     vectors::operations::add_element(&mut numbers, 6);
