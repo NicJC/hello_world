@@ -14,3 +14,6 @@ The main function:
 
 * let is used to declare variables
 * mut nakes a variable mutable
+
+### Adding another main function via bin:
+[bin](https://github.com/NicJC/hello_world/blob/master/src/bin/another.rs)
