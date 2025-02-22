@@ -17,5 +17,5 @@ The main function:
 
 ### Adding another main function via bin:
 [bin](https://github.com/NicJC/hello_world/blob/master/src/bin/another.rs)
-Multiple binary programs in src/bin
+* Multiple binary programs in src/bin
 
