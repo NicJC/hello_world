@@ -12,5 +12,5 @@ The main function:
 
 ### In the Main function above
 
-** let is used to declare variables.
-** mut nakes a variable mutable
+* let is used to declare variables
+* mut nakes a variable mutable
