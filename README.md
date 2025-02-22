@@ -17,3 +17,7 @@ The main function:
 
 ### Adding another main function via bin:
 [bin](https://github.com/NicJC/hello_world/blob/master/src/bin/another.rs)
+
+'1'
+'2'
+'3'
