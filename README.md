@@ -2,4 +2,4 @@
 
 fn main() { ... }
 
-[Simple List](https://github.com/NicJC/hello_world/blob/master/src/main.rs)
+[Vectors and numbers](https://github.com/NicJC/hello_world/blob/master/src/main.rs)
